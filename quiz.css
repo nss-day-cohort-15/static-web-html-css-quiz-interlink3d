@@ -5,6 +5,7 @@ article {
   border-style: solid; 
   max-width: 30%;
   float: left;
+  margin: 1%;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
   border-width: 1px;
   border-style: dotted;
   text-align: center;
+  margin-top: 0px;
 }
 
 header {
@@ -24,8 +26,8 @@ ul {
 }
 
 img {
-  max-height: 280px;
-  max-width: 200px;
+  height: 280px;
+  width: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto 
@@ -33,7 +35,6 @@ img {
 
 label {
   border-color: darkgray;
-  border-width: auto;
   border-style: solid;
   background-color: darkgray;
   color: yellow; 
@@ -44,5 +45,8 @@ div {
   padding-left: 10px;   
 }
 
+footer {
+  font-size: .75em;
+}
 
 
