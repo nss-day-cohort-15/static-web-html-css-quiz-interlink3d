@@ -16,15 +16,11 @@ h1 {
 
 header {
   font-weight: bold;
+  text-align: left;
 }
 
 ul {
   font-weight: bold;
-}
-
-label {
-  background-color: darkgrey
-  color: yellow;
 }
 
 img {
@@ -33,6 +29,14 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto 
+}
+
+label {
+  border-color: darkgray;
+  border-width: auto;
+  border-style: solid;
+  background-color: darkgray;
+  color: yellow; 
 }
 
 div {
