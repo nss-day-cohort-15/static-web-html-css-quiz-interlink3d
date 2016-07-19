@@ -1,0 +1,54 @@
+article {
+  border-color: lightblue;
+  border-width: 1px; 
+  border-style: solid; 
+  max-width: 30%;
+  float: left;
+  margin: 1%;
+}
+
+h1 {
+  border-color: lightgray;
+  border-width: 1px;
+  border-style: dotted;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+header {
+  font-weight: bold;
+}
+
+ul {
+  font-weight: bold;
+  list-style: none;
+}
+
+img {
+  height: 280px;
+  width: 200px;
+  display: block;
+  margin: 0 auto; 
+}
+
+label {
+  border-color: darkgray;
+  border-style: solid;
+  background-color: darkgray;
+  color: yellow;
+  display: block;
+  width: 100%;  
+}
+
+.specs {
+  padding-left: 10px;
+}
+
+div {
+  padding-left: 10px;   
+}
+
+footer {
+  font-size: .75em;
+}
