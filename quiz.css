@@ -36,7 +36,9 @@ label {
   border-color: darkgray;
   border-style: solid;
   background-color: darkgray;
-  color: yellow; 
+  color: yellow;
+  display: block;
+  width: 100%;  
 }
 
 .specs {
