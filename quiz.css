@@ -1,4 +1,3 @@
-
 article {
   border-color: lightblue;
   border-width: 1px; 
@@ -13,16 +12,17 @@ h1 {
   border-width: 1px;
   border-style: dotted;
   text-align: center;
-  margin-top: 0px;
+  font-weight: bold;
+  margin-top: 0;
 }
 
 header {
   font-weight: bold;
-  text-align: left;
 }
 
 ul {
   font-weight: bold;
+  list-style: none;
 }
 
 img {
@@ -40,13 +40,14 @@ label {
   color: yellow; 
 }
 
+.specs {
+  padding-left: 10px;
+}
+
 div {
-  text-justify: left;
   padding-left: 10px;   
 }
 
 footer {
   font-size: .75em;
 }
-
-
