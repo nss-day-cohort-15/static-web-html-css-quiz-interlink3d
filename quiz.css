@@ -29,8 +29,7 @@ img {
   height: 280px;
   width: 200px;
   display: block;
-  margin-left: auto;
-  margin-right: auto 
+  margin: 0 auto; 
 }
 
 label {
